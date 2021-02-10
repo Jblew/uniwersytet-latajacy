@@ -1,9 +1,12 @@
 [submodule "mece-motivation-workshops"]
 	path = mece-motivation-workshops
 	url = git@github.com:Jblew/mece-motivation-workshops.git
+	branch = master
 [submodule "python-for-science-course"]
 	path = python-for-science-course
 	url = git@github.com:Jblew/python-for-science-course.git
+	branch = master
 [submodule "sztuka-nowoczesna-sztuka-wspolczesna-wyklad"]
 	path = sztuka-nowoczesna-sztuka-wspolczesna-wyklad
 	url = git@github.com:Jblew/sztuka-nowoczesna-sztuka-wspolczesna-wyklad.git
+	branch = main
