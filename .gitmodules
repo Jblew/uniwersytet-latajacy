@@ -4,3 +4,6 @@
 [submodule "python-for-science-course"]
 	path = python-for-science-course
 	url = git@github.com:Jblew/python-for-science-course.git
+[submodule "sztuka-nowoczesna-sztuka-wspolczesna-wyklad"]
+	path = sztuka-nowoczesna-sztuka-wspolczesna-wyklad
+	url = git@github.com:Jblew/sztuka-nowoczesna-sztuka-wspolczesna-wyklad.git
