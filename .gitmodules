@@ -1,0 +1,6 @@
+[submodule "mece-motivation-workshops"]
+	path = mece-motivation-workshops
+	url = git@github.com:Jblew/mece-motivation-workshops.git
+[submodule "python-for-science-course"]
+	path = python-for-science-course
+	url = git@github.com:Jblew/python-for-science-course.git
